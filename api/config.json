@@ -1,0 +1,12 @@
+{
+  "apiServer": {
+    "port": 8080
+  },
+  "btc": {
+    "id": "alex",
+    "endPoint": ""
+  },
+  "evm": {
+    "endPoint": "https://rpc.ankr.com/eth"
+  }
+}
